@@ -1,2 +1,0 @@
-# Kata
-# Kata-py
