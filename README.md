@@ -1,3 +1,4 @@
 # Kata-py
 
-Just random python codes
+Learning python
+Random code snippets
