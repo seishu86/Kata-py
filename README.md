@@ -1,4 +1,7 @@
 # Kata-py
 
-Learning python
-Random code snippets
+Solving small Python challenges
+
+Codewars
+
+Hackerrank
